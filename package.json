@@ -1,0 +1,14 @@
+{
+  "name": "nk_imc",
+  "version": "1.0.3",
+  "description": "Libreria de indice de masa corporal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: test no especificado\" && exit 1"
+  },
+  "keywords": [
+    "imc"
+  ],
+  "author": "Nicolas Peñuela",
+  "license": "ISC"
+}
