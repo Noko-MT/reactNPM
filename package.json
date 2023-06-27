@@ -1,0 +1,14 @@
+{
+  "name": "nk_calculator",
+  "version": "1.0.1",
+  "description": "Esta biblioteca permite realizar operaciones basicas de una calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: test no especificado\" && exit 1"
+  },
+  "keywords": [
+    "calculadora"
+  ],
+  "author": "Nicolas Peñuela",
+  "license": "ISC"
+}
