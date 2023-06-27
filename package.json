@@ -1,0 +1,14 @@
+{
+  "name": "nk_alert",
+  "version": "1.0.0",
+  "description": "First library in npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: unspecified\" && exit 1"
+  },
+  "keywords": [
+    "alert"
+  ],
+  "author": "Nicolas Peñuela",
+  "license": "ISC"
+}
